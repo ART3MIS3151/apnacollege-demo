@@ -1,2 +1,4 @@
 # apnacolllege-demo
-This is my second git repository&lt;br.>
+This is my second git repository. 
+<be>
+Author - ART3MIS3151
